@@ -1,0 +1,17 @@
+{
+  "name": "rp-verify-bot",
+  "version": "1.0.0",
+  "description": "Discord verification bot untuk Roblox RP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^2.7.0",
+    "noblox.js": "^4.16.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
